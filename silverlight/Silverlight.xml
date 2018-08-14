@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Silverlight
+</name>
+</assembly>
+<members>
+<member name="M:Silverlight.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Silverlight.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>
